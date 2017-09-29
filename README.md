@@ -15,6 +15,9 @@ and a [BotFather](www.t.me/BotFather) token
 Add your Imgur client ID here:![alt tag](http://i.imgur.com/8lCDcR6.png)
 And your token here:![alt tag](http://i.imgur.com/ufcz8ic.png)
 
+### Run at startup
+Windows: press the Windows key+R and type ```shell:startup```, then add a link to the pyw file into the startup folder.
+
 Now you're ready!
 
 ### Start it
